@@ -23,7 +23,7 @@ var pJS = function(tag_id, params){
         value: 1,
         density: {
           enable: true,
-          value_area: 1
+          value_area: 1000
         }
       },
       color: {
