@@ -142,10 +142,10 @@
       particlesJS('particles-js', {
         "particles": {
           "number": {
-            "value": 0, 
+            "value": 1, 
             "density": {
               "enable": true,
-              "value_area": 1000
+              "value_area": 1
             }
           },
           "color": {
@@ -167,7 +167,7 @@
             }
           },
           "opacity": {
-            "value": 0.7,
+            "value": 0.1,
             "random": false,
             "anim": {
               "enable": false,
