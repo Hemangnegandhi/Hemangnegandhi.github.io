@@ -145,7 +145,7 @@
             "value": 1, 
             "density": {
               "enable": true,
-              "value_area": 1
+              "value_area": 10000
             }
           },
           "color": {
